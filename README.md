@@ -49,3 +49,6 @@ The Tableau dashboard includes:
 - **Product Type Composition**
   - Distribution of product categories (e.g. Cleaner, Sanitiser, Lubricant)
 
+🔗 **View the interactive dashboard here:**  
+👉 https://public.tableau.com/app/profile/claire.li7366/viz/NZNon-DairyCleaningProductsRegistrationExpiryRiskDashboard/Dashboard1?
+
